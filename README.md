@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaydeepninawe
-- 👀 I’m interested in full-stack and LLM
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in full-stack development
+
 
 <!---
 jaydeepninawe/jaydeepninawe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
