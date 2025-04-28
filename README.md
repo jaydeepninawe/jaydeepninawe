@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaydeep Ninawe</h1>
+
 ---
 
 ### 🧠 About Me
@@ -10,19 +11,7 @@
 
 ### 🛠️ Weapons of Choice
 
-### Tools & Technologies:
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://avatars.githubusercontent.com/u/63025508?s=200&v=4" alt="Render" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg" alt="Redis" width="50" height="50" style="margin: 10px;"/>
-</div>
-
----
-
-### Frontend:
+#### Frontend:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -47,6 +36,34 @@
 
 #### Other Languages:
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+---
+
+### 🧰 Tools & Technologies:
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+
+  <a href="https://github.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://vercel.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  </a>
+
+  <a href="https://render.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Render-1F2937?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  </a>
+
+  <a href="https://redis.io/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  </a>
+
+</div>
 
 ---
 
