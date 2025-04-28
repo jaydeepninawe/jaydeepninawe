@@ -79,7 +79,6 @@
 
 ### 📫 How to Reach Me
 - 📧 Email: [ninawejay3002@gmail.com](mailto:ninawejay3002@gmail.com)
-- 🌐 Portfolio: [jaydeeo-portfolio.vercel.app](https://jaydeeo-portfolio.vercel.app/)
 
 ---
 
